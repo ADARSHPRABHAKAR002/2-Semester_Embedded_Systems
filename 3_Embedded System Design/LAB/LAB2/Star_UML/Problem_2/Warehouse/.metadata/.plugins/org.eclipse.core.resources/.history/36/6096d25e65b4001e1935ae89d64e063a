@@ -1,0 +1,15 @@
+package person;
+
+public class Testclass{
+	
+public static void main(String[] args)
+{
+
+	Person p=new Person("punith","bangalore");
+	System.out.println(p.toString());
+	
+	
+	
+}
+
+}

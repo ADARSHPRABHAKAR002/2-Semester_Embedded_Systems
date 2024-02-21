@@ -1,0 +1,13 @@
+package person;
+
+public class Student {
+	
+	private int numofcourses=0;
+	String courses[]= {};
+	private int grades[]={};
+	
+ public Student(String name,String address)
+ super(name,address);
+}
+
+}

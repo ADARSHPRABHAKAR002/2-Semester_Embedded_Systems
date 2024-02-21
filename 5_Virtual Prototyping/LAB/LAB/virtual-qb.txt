@@ -1,0 +1,36 @@
+1. Write a C++ program to  find the maximum number in an array of Integers.
+2. Write a C++ program tofind out the sum of digits of a number.
+3. Write C++ program to print the  reverse of an array.
+4. Write a C++ code to swap values of two variables using pointers.
+5. Write C++ program to find length of string using pointers.
+6. What are virtual functions? Write a C++ program to demonstrate polymorphism.
+7. Describe dynamic binding in C++ using an example.
+8. What is operator overloading. Overload + operator in the implementation of complex numbers.
+9. What is function overloading? Explain using an example in C++.
+10.Differentiate between run time polymorphism and compile time polymorphism with an example in C++.
+11.What are constructors? Explain with an example for complex numbers using c++.
+12.Illustrate copy constructors with an example in c++.
+13.Illustrate function overriding with an example in C++.
+14.Overload << operator for date class using friend function. date class comprises of date, month and year.
+15.Illustrate the use of #define directive in C/C++.
+
+	Design the following combinational circuits using systemc with monitor and driver 
+16. decoder 2:4 with enable
+17. and gate
+18. nand gate
+19. half adder
+20. full adder	
+
+	Design the following sequential circuit using systemc with monitor and driver
+21. 4bit shft register
+22. D flip flop
+23. mod 8 counter
+24. t ff
+25. sr flip flop
+	
+	Design the following fsm using systemc with monitor and driver
+26. output 1 if number of 0 is odd and number 1 is even
+27. output 1 if 011 is present as a substring
+28. output 1 if 100 is present at the end of the string
+29. given input alphabet to be 0 - 9 output 1 if the string is divisible by 5
+30. output 1 if 100 is present at the beginning of the string

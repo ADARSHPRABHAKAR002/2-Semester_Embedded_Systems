@@ -1,0 +1,14 @@
+package person;
+
+public class Teacher extends Person {
+	
+	private int numofcourses=0;
+	private String courses[]={};
+	int i=0;
+	
+	public Teacher(String name,String address)
+	 {
+		 super(name,address);
+	   }
+    
+}

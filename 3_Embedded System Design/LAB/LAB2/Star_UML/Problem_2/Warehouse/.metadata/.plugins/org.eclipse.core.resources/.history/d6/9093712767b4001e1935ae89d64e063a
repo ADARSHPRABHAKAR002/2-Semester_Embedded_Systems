@@ -1,0 +1,28 @@
+package person;
+
+public class Testclass{
+	
+public static void main(String[] args)
+{
+
+	Person p=new Person("punith","bangalore");
+	System.out.println(p.toString());
+	
+	Student s=new Student("punith","bangalore");
+	
+	s.addcoursegrade("java",5);
+	s.addcoursegrade("datastructure",5);
+	s.addcoursegrade("RTOS",5);
+	s.addcoursegrade("MCA",5);
+	s.printgrades();
+	//assert()
+	Teacher t=new Student("malli sir","udupi");
+	
+	
+	
+	
+	
+	
+}
+
+}

@@ -1,0 +1,18 @@
+package person;
+
+public class Student extends Person {
+	
+	private int numofcourses=0;
+	privateString courses[]={};
+	private int grades[]={};
+	
+ public Student(String name,String address)
+ {
+    super(name,address);
+   }
+ public String toString()
+ {
+ 	return "the name is "+getname()+" and the address is "+getaddress();
+ }
+
+}

@@ -1,0 +1,11 @@
+package person;
+
+public class Student {
+	
+	private int numofcourses=0;
+	String courses[]= {};
+	private int grades[]={};
+	
+	
+
+}

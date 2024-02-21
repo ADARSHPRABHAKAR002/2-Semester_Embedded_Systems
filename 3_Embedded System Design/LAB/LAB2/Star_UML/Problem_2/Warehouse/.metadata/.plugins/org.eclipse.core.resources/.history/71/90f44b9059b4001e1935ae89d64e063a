@@ -1,0 +1,33 @@
+package warehouse;
+
+public class Productwarehouse {
+	private String name;
+
+	   public Productwarehouse(String name,double capacity) 
+	    {
+	        this.name=name;
+	        super(capacity);
+	        
+	    }
+
+	    
+	    public String getname() 
+	    {
+	        return name;
+	        
+	    }
+
+
+	    public void setname(String name) {
+	       
+	       this.name=name;
+	    }
+
+	   
+	    public String toString() {
+	        
+	        return "my name is punith";
+	    }
+
+
+}
